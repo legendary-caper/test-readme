@@ -1,3 +1,3 @@
-### Hey peoples
+## Readme
 
-It's a secret readme hurhur
+You're reading this on GitHub.
